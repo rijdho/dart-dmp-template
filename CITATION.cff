@@ -15,7 +15,7 @@ authors:
     family-names: Hartley Belmar
     orcid: https://orcid.org/0000-0001-5058-9309
     affiliation: IT:U Interdisciplinary Transformation University Austria
-repository-code: "https://github.com/lo-fi-work/dart-dmp-template"
+repository-code: "https://github.com/rijdho/dart-dmp-template"
 license: MIT
 version: "0.1.0"
 date-released: "2026-11-10"

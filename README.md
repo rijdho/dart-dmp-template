@@ -3,7 +3,7 @@
 A short data management plan template for projects at IT:U, as a page that runs in the browser.
 It is a draft prepared by DART and has not been adopted as IT:U policy.
 
-Repository: <https://github.com/lo-fi-work/dart-dmp-template>.
+Repository: <https://github.com/rijdho/dart-dmp-template>.
 
 Language: English.
 

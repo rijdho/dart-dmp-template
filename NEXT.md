@@ -1,7 +1,7 @@
 # Next
 
 State on 2026-11-10: version 0.1.0, a first draft. The repository is
-<https://github.com/lo-fi-work/dart-dmp-template>; the page is not published yet.
+<https://github.com/rijdho/dart-dmp-template>; the page is not published yet.
 
 ## What exists
 
