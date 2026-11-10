@@ -1,0 +1,28 @@
+dart-dmp-template (IT:U data management plan)
+Copyright 2026 Ricardo Hartley, IT:U Interdisciplinary Transformation University Austria
+
+The code written for this page (index.html, style.css, src/itu.js, src/theme-boot.js,
+tests/page.test.mjs) is licensed under the MIT License (LICENSE). The texts
+(the interface strings in src/i18n/en.js and the documentation) are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+The following files come unchanged from Actionable DMP (dmp-template), copyright 2026 Ricardo
+Hartley Belmar, https://doi.org/10.5281/zenodo.23498569, at commit 86eff52; tests/upstream.lock.json
+records their SHA-256:
+  src/requirements.js, src/plan.js, src/jsonschema.js, src/i18n/index.js  (MIT License)
+  schema/dmp.schema.json                                                   (CC BY 4.0)
+src/app.js is a shortened version of Actionable DMP's src/app.js (MIT License).
+Most of the interface strings in src/i18n/en.js are taken from its catalogue (CC BY 4.0); the
+ones that describe this page were written for it.
+
+The section titles, questions and guidance in src/i18n/en.js, and the six core requirements in
+src/requirements.js, are taken from:
+  Science Europe (2021). Practical Guide to the International Alignment of Research Data
+  Management (Extended Edition). Zenodo. https://doi.org/10.5281/zenodo.4915862
+  licensed under CC BY 4.0.
+
+schema/maDMP-schema-1.2.json, its copy as a module in src/madmp-schema.js, and the examples in
+tests/fixtures/rda/ come unchanged from the RDA DMP Common Standard for machine-actionable Data
+Management Plans, https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard, released into the
+public domain under the Unlicense.

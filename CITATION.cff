@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this template, please cite it."
+title: "dart-dmp-template: a short data management plan template for projects at IT:U"
+abstract: >-
+  A page for writing a data management plan for a project at IT:U: the project,
+  its datasets and the fifteen questions of Science Europe's core requirements.
+  The plan is downloaded as a document, in the sections of the Horizon Europe
+  template or in Science Europe's, and as dmp.json in the RDA DMP Common
+  Standard v1.2, with IT:U recorded as the affiliation of the contact. It is a
+  draft prepared by DART and has not been adopted as IT:U policy. Built on
+  Actionable DMP.
+type: software
+authors:
+  - given-names: Ricardo
+    family-names: Hartley Belmar
+    orcid: https://orcid.org/0000-0001-5058-9309
+    affiliation: IT:U Interdisciplinary Transformation University Austria
+license: MIT
+version: "0.1.0"
+date-released: "2026-11-10"
+keywords:
+  - data management plan
+  - machine-actionable DMP
+  - research data management
+  - Science Europe
+  - Horizon Europe
+references:
+  - type: software
+    title: "Actionable DMP"
+    authors:
+      - given-names: Ricardo
+        family-names: Hartley Belmar
+    doi: 10.5281/zenodo.23498569

@@ -1,0 +1,14 @@
+{
+  "source": "Actionable DMP, https://doi.org/10.5281/zenodo.23498569",
+  "commit": "86eff52e498dbfc05649ce127012014775a3c841",
+  "files": {
+    "src/requirements.js": "221b2cd1da09149b2e5b9e11bc39735180fa102ea205597384fb7af93793d706",
+    "src/plan.js": "6ac5541cfb08106a865a8a12ded1217174b84020493b9f834438c07f1b2634bc",
+    "src/jsonschema.js": "9fe36068f71c0898a0057268caeb211cd611b48f75032501b74d3676a004450e",
+    "src/madmp-schema.js": "04c3a7a454fab341f4739097bd2cb00886c0fcd329b6d907c3837cc8173f232f",
+    "src/i18n/index.js": "6259f5198f25144d479f9a9fedf7817b893cbf5c711be8f2c494cafc8bf7e3c3",
+    "schema/maDMP-schema-1.2.json": "474211028a990f57d079f1b5f74bc3addc1d14c28dfd4c4a6e18ff8a81fcf77a",
+    "schema/dmp.schema.json": "5686e65271b1f9352ede555a3ca79e9adfc1bf954e8ade02762a551e1b0c281e"
+  },
+  "quoted_strings_sha256": "16dd5469bbe9e0d9d793f4c594cf11c3f4a8c909b6b5db8da67009035910691e"
+}
