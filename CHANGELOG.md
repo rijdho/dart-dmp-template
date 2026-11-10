@@ -2,7 +2,8 @@
 
 ## Unreleased
 
-- The signature in the rail links to the repository, and `CITATION.cff` and the README name it.
+- The signature in the rail links to the repository, and `CITATION.cff` and the README name it
+  and the published page.
 
 ## 0.1.0 (2026-11-10)
 

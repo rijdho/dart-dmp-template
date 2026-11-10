@@ -1,7 +1,8 @@
 # Next
 
 State on 2026-11-10: version 0.1.0, a first draft. The repository is
-<https://github.com/rijdho/dart-dmp-template>; the page is not published yet.
+<https://github.com/rijdho/dart-dmp-template>; the page is published at
+<https://rijdho.github.io/dart-dmp-template/> (GitHub Pages, branch `main`, root) since 2026-11-10.
 
 ## What exists
 
@@ -15,8 +16,6 @@ State on 2026-11-10: version 0.1.0, a first draft. The repository is
 
 ## Open decisions
 
-- Whether the page is published with GitHub Pages. The page needs no build: Pages can serve the
-  branch root (`.nojekyll` is there).
 - `dmp.json` names the schema of Actionable DMP's extension in its `$schema` field, at that
   tool's own address, because `src/plan.js` is used unchanged. Decide whether an IT:U page
   should keep that.

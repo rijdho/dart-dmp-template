@@ -8,13 +8,14 @@ abstract: >-
   template or in Science Europe's, and as dmp.json in the RDA DMP Common
   Standard v1.2, with IT:U recorded as the affiliation of the contact. It is a
   draft prepared by DART and has not been adopted as IT:U policy. Built on
-  Actionable DMP.
+  Actionable DMP. It runs at https://rijdho.github.io/dart-dmp-template/.
 type: software
 authors:
   - given-names: Ricardo
     family-names: Hartley Belmar
     orcid: https://orcid.org/0000-0001-5058-9309
     affiliation: IT:U Interdisciplinary Transformation University Austria
+url: "https://rijdho.github.io/dart-dmp-template/"
 repository-code: "https://github.com/rijdho/dart-dmp-template"
 license: MIT
 version: "0.1.0"
