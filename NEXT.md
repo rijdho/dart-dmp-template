@@ -1,7 +1,7 @@
 # Next
 
-State on 2026-11-10: version 0.1.0, a first draft. The repository is local, with no remote, and
-the page is not published anywhere.
+State on 2026-11-10: version 0.1.0, a first draft. The repository is
+<https://github.com/IT-U-Tech/dart-dmp-template>, private; the page is not published anywhere.
 
 ## What exists
 
@@ -15,10 +15,8 @@ the page is not published anywhere.
 
 ## Open decisions
 
-- Where the repository lives and under which name, and whether the page is published with
-  GitHub Pages. The page needs no build: Pages can serve the branch root (`.nojekyll` is there).
-- Once the repository has an address: add it to the signature in the rail, to `CITATION.cff`
-  (`repository-code`) and to the README.
+- Whether the page is published with GitHub Pages. The page needs no build: Pages can serve the
+  branch root (`.nojekyll` is there).
 - `dmp.json` names the schema of Actionable DMP's extension in its `$schema` field, at that
   tool's own address, because `src/plan.js` is used unchanged. Decide whether an IT:U page
   should keep that.

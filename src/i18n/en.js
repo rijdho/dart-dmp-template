@@ -3,9 +3,9 @@
 // (Extended Edition, 2021, https://doi.org/10.5281/zenodo.4915862, CC BY 4.0) and are kept
 // word for word; tests/page.test.mjs compares them, by hash, with Actionable DMP's. In the guidance, one line is one bullet and a
 // line starting with › is a sub-bullet. Most labels and messages come unchanged from Actionable
-// DMP (see NOTICE). Thirteen strings are this page's own: the description, the eyebrow, the lede,
+// DMP (see NOTICE). Fourteen strings are this page's own: the description, the eyebrow, the lede,
 // the hints on the contact and the datasets, the two download labels, one validation message,
-// the three About texts and the two footer lines.
+// the three About texts and the three footer lines.
 export const en = {
   "ui.lang.aria": "Language",
   "ui.theme.title": "Toggle light/dark theme",
@@ -243,5 +243,6 @@ export const en = {
   "about.p2": "The questions and guidance come from Science Europe’s <a href=\"https://doi.org/10.5281/zenodo.4915862\" target=\"_blank\" rel=\"noreferrer\">Practical Guide to the International Alignment of Research Data Management</a> (Extended Edition, 2021), used under CC BY 4.0. The file follows the <a href=\"https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard\" target=\"_blank\" rel=\"noreferrer\">RDA DMP Common Standard</a> v1.2, whose schema is in the public domain.",
   "about.p3": "The page is built on <a href=\"https://doi.org/10.5281/zenodo.23498569\" target=\"_blank\" rel=\"noreferrer\">Actionable DMP</a> and uses its modules for the questions, the plan file and its validation unchanged. The code is under MIT; the texts are under CC BY 4.0. Nothing is tracked, no cookie is set, and the page loads nothing from anywhere but its own origin.",
   "foot.team": "DART · IT:U Interdisciplinary Transformation University Austria",
-  "foot.licence": "Code under MIT, texts under CC BY 4.0"
+  "foot.licence": "Code under MIT, texts under CC BY 4.0",
+  "foot.source": "Source on GitHub"
 };

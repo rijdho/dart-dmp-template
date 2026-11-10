@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- The signature in the rail links to the repository, and `CITATION.cff` and the README name it.
+
 ## 0.1.0 (2026-11-10)
 
 First version, a draft for discussion.
