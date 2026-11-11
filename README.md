@@ -62,4 +62,5 @@ under which terms.
 
 ## Citation
 
-If you use this template, please cite it: see `CITATION.cff`.
+If you use this template, please cite it: see `CITATION.cff`. Author: Ricardo Hartley Belmar
+(DART, IT:U), <https://orcid.org/0000-0001-5058-9309>.
